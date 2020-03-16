@@ -1,0 +1,57 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Duff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DUFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/ShiftLeft1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Register32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Mux2_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Full_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/FlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RippleAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RippleAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RF_Input_MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF_Input_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RF_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RFControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RegWLoad.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegWLoad
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/PC_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Mux4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/ImmGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Forwarding Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ForwardingUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Dic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dic
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Dic.v:61]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Dic.v:64]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/DataMem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SMem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/BCU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCU
+INFO: [VRFC 10-2458] undeclared symbol Bgt, assumed default net type wire [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/BCU.v:32]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/ALUControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV_tb
+INFO: [VRFC 10-2458] undeclared symbol ledSel, assumed default net type wire [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:16]
+INFO: [VRFC 10-2458] undeclared symbol ssdSel, assumed default net type wire [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:17]
+INFO: [VRFC 10-2458] undeclared symbol leds, assumed default net type wire [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:18]
+INFO: [VRFC 10-2458] undeclared symbol ssd, assumed default net type wire [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:19]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

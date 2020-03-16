@@ -1,0 +1,59 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto e8a6296944c44485ac144a03224a0855 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RISCV_tb_behav xil_defaultlib.RISCV_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port ledSel [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:16]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 4 for port ssdSel [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:17]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 16 for port leds [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:18]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 13 for port ssd [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sim_1/new/simmmm.v:19]
+WARNING: [VRFC 10-278] actual bit length 193 differs from formal bit length 195 for port data_in [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:65]
+WARNING: [VRFC 10-278] actual bit length 193 differs from formal bit length 195 for port data_out [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:70]
+WARNING: [VRFC 10-278] actual bit length 209 differs from formal bit length 221 for port data_in [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:74]
+WARNING: [VRFC 10-278] actual bit length 209 differs from formal bit length 221 for port data_out [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:77]
+WARNING: [VRFC 10-278] actual bit length 236 differs from formal bit length 239 for port data_in [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:82]
+WARNING: [VRFC 10-278] actual bit length 236 differs from formal bit length 239 for port data_out [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:85]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port shamt [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:96]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 10 for port addr [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:97]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 16 for port comp_Inst [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:102]
+WARNING: [VRFC 10-278] actual bit length 6 differs from formal bit length 5 for port inst [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:103]
+WARNING: [VRFC 10-278] actual bit length 7 differs from formal bit length 5 for port opcode [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:111]
+WARNING: [VRFC 10-278] actual bit length 5 differs from formal bit length 1 for port MEM_WB_Inst62 [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/RISCV.v:114]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Dic.v:61]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.srcs/sources_1/new/Dic.v:64]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Mux2_1
+Compiling module xil_defaultlib.FlipFlop
+Compiling module xil_defaultlib.RegWLoad_default
+Compiling module xil_defaultlib.RegWLoad(SIZE=65)
+Compiling module xil_defaultlib.RegWLoad(SIZE=195)
+Compiling module xil_defaultlib.RegWLoad(SIZE=221)
+Compiling module xil_defaultlib.RegWLoad(SIZE=239)
+Compiling module xil_defaultlib.ForwardingUnit
+Compiling module xil_defaultlib.Mux4_1
+Compiling module xil_defaultlib.Full_Adder
+Compiling module xil_defaultlib.RippleAdder_default
+Compiling module xil_defaultlib.Mux2
+Compiling module xil_defaultlib.DUFF
+Compiling module xil_defaultlib.Register32_default
+Compiling module xil_defaultlib.RegFile_default
+Compiling module xil_defaultlib.Mux2_1(N=8)
+Compiling module xil_defaultlib.Mux2_1(N=32)
+Compiling module xil_defaultlib.Shift1
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.SMem
+Compiling module xil_defaultlib.Dic
+Compiling module xil_defaultlib.ControlUnit
+Compiling module xil_defaultlib.ALUControl
+Compiling module xil_defaultlib.BCU
+Compiling module xil_defaultlib.RFControl
+Compiling module xil_defaultlib.PCControlUnit
+Compiling module xil_defaultlib.RF_Input_MUX
+Compiling module xil_defaultlib.Gen
+Compiling module xil_defaultlib.RISCV
+Compiling module xil_defaultlib.RISCV_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot RISCV_tb_behav

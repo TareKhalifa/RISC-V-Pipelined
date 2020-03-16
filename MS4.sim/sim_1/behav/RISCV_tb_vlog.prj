@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Mux2.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Duff.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/ShiftLeft1.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Register32.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Mux2_1.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Full_Adder.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/FlipFlop.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RippleAdder.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RF_Input_MUX.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RF_Control.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RegWLoad.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RegFile.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/PC_Control.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Mux4_1.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/ImmGen.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Forwarding Unit.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/Dic.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/DataMem.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/ControlUnit.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/BCU.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/ALUControl.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/ALU.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sources_1/new/RISCV.v"
+verilog xil_defaultlib  "../../../MS4.srcs/sim_1/new/simmmm.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

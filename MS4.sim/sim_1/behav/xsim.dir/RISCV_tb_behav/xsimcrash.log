@@ -1,0 +1,41 @@
+Unable to capture context for thread 4648 in process 8344, can not generate back trace
+Unable to capture context for thread 9416 in process 8344, can not generate back trace
+Exception at PC 0x00007FFA0642BB93
+Printing stacktrace...
+
+Unable to capture context for thread 9416 in process 8344, can not generate back trace
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+[0]  [0x00007FFA0642BB93]
+[1]  [0x00007FFA0642BB93]
+[2]  [0x00007FFA0642B4A1]
+[3]  [0x00007FFA0642B3EF]
+[4]  [0x00007FFA064119FE]
+[5]  [0x00007FFA06410ED1]
+[6]  [0x00007FFA06410D76]
+[7]  [0x00007FFA063B79F6]
+[8]  [0x00007FFA063A7AFB]
+[9]  [0x00007FFA064CE90A]
+[10]  [0x00007FFA064E9F87]
+[11]  [0x00007FFA064EA05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFA73681FE4]
+[13] (RtlUserThreadStart+0x21) [0x00007FFA75F9F061]
+Done
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008
+Exception at PC 0x00007FFA72684008

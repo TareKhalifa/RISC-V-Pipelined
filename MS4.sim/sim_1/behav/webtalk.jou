@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Fri Jul 12 04:44:20 2019
+# Process ID: 1576
+# Current directory: C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.sim/sim_1/behav/xsim.dir/RISCV_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Tarekelsayed/Desktop/3 el fagr/MS4/MS4.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Tarekelsayed/Desktop/3 -notrace
